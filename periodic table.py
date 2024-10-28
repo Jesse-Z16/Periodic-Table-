@@ -48,14 +48,6 @@ def periodic_table(element):
         print('Group: Halogens')
     else:
         print('Element is not in the catalogue')
-        
-        
-        
-        
-        
-
-
-
 
 # -------------------------
 # Main program
